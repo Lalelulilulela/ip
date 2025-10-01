@@ -1,5 +1,5 @@
 # Lelu chatbot user guide
-> "Hi, I am your favaourite friend Lelu! What can I do for you?" - Lelu
+> "Hi, I am your favourite friend Lelu! What can I do for you?" - Lelu
 
 Lelu is here to help you with __managing you tasks__!
 > ![Ui](https://github.com/Lalelulilulela/ip/assets/122797951/c690a9ea-a919-4c7c-931c-f2a01f3767bb)
